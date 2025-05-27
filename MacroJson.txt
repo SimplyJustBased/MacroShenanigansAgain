@@ -1,0 +1,30 @@
+[
+    {
+        "MacroName": "HyperDartMacro",
+        "MacroNameColor": "9F5BFF",
+        "MacroDeveloper": "A Basement",
+        "MacroDeveloperColor": "8FFF97",
+        "MacroVersion": "1.0.2",
+        "MacroDescription": "The hyper dart macro in question",
+        "MacroInformation": "Even Longer Inform",
+        "MacroGame": "BGSI",
+        "LastUpdated": "1748277979",
+        "MacroUUID": "b495d527-f5c4-4280-8805-beb6da0a34fc",
+        "DownloadLink": "https://github.com/SimplyJustBased/MacroShenanigansAgain/releases/download/v1.0.1/Main_Dart.zip",
+        "Discord": "https://discord.gg/JrwB6jVxkR"
+    },
+    {
+        "MacroName": "MinecartMacro",
+        "MacroNameColor": "7B5433",
+        "MacroDeveloper": "A Basement",
+        "MacroDeveloperColor": "8FFF97",
+        "MacroVersion": "1.0.0",
+        "MacroDescription": "Right now its just the HyperDart Macro",
+        "MacroInformation": "Even Longer Inform",
+        "MacroGame": "BGSI",
+        "LastUpdated": "1748277979",
+        "MacroUUID": "075a1574-7612-4297-b405-6a5cde5e4672",
+        "DownloadLink": "https://github.com/SimplyJustBased/MacroShenanigansAgain/releases/download/v1.0.1/Main_Dart.zip",
+        "Discord": "https://discord.gg/JrwB6jVxkR"
+    }
+]
